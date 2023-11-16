@@ -1,3 +1,3 @@
-module github.com/opus-domini/fast-shot
+module github.com/atomicleads/fast-shot
 
-go 1.21.4
+go 1.21.3
