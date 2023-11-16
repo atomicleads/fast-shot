@@ -1,7 +1,7 @@
 package fastshot
 
 import (
-	"github.com/opus-domini/fast-shot/constant/method"
+	"github.com/atomicleads/fast-shot/constant/method"
 	"net/http"
 	"net/http/httptest"
 	"testing"

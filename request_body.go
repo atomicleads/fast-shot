@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"github.com/opus-domini/fast-shot/constant"
+	"github.com/atomicleads/fast-shot/constant"
 	"io"
 )
 

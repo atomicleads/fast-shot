@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/opus-domini/fast-shot/constant"
+	"github.com/atomicleads/fast-shot/constant"
 	"io"
 	"net/http"
 	"net/url"

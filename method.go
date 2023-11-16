@@ -1,6 +1,6 @@
 package fastshot
 
-import "github.com/opus-domini/fast-shot/constant/method"
+import "github.com/atomicleads/fast-shot/constant/method"
 
 // GET is a shortcut for NewRequest(c, method.GET, path).
 func (c *Client) GET(path string) *RequestBuilder {

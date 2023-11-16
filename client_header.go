@@ -1,7 +1,7 @@
 package fastshot
 
 import (
-	"github.com/opus-domini/fast-shot/constant/header"
+	"github.com/atomicleads/fast-shot/constant/header"
 )
 
 // Header is the interface that wraps the basic methods for setting custom HTTP Header.

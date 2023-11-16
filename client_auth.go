@@ -2,7 +2,7 @@ package fastshot
 
 import (
 	"encoding/base64"
-	"github.com/opus-domini/fast-shot/constant/header"
+	"github.com/atomicleads/fast-shot/constant/header"
 )
 
 // Auth is the interface that wraps the basic methods for setting authentication configurations.

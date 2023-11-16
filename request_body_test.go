@@ -2,7 +2,7 @@ package fastshot
 
 import (
 	"bytes"
-	"github.com/opus-domini/fast-shot/constant"
+	"github.com/atomicleads/fast-shot/constant"
 	"strings"
 	"testing"
 )
